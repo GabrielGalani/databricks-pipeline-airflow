@@ -1,6 +1,6 @@
 # Databricks notebook source
-# dbutils.widgets.text("data_execucao", "")
-# data_execucao = dbutils.widgets.get("data_execucao")
+dbutils.widgets.text("data_execucao", "")
+data_execucao = dbutils.widgets.get("data_execucao")
 
 # COMMAND ----------
 
@@ -89,14 +89,18 @@ def salvar_arquivo_parquet(conversoes_extraidas):
 
 # COMMAND ----------
 
-cotacoes = extraindo_dados("2024-02-01")
+cotacoes = extraindo_dados(data_execucao)
 salvar_arquivo_parquet(cotacoes)
 
 
 # COMMAND ----------
 
-display(dbutils.fs.ls("dbfs:/databricks-results/bronze/2024/02/01")) 
+# display(dbutils.fs.ls("dbfs:/databricks-results/bronze/2024/02/01")) 
 
 # COMMAND ----------
 
 # dbutils.fs.rm("dbfs:/databricks-results/", True)
+
+# COMMAND ----------
+
+
