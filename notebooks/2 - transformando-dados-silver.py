@@ -93,3 +93,7 @@ display(dbutils.fs.ls("dbfs:/databricks-results/prata/valores_reais"))
 # COMMAND ----------
 
 display(dbutils.fs.ls("dbfs:/databricks-results/prata/valores_reais/"))
+
+# COMMAND ----------
+
+
