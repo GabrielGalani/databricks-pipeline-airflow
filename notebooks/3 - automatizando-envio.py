@@ -3,13 +3,13 @@
 
 # COMMAND ----------
 
-import slack-sdk
-from slack_Sdk import WebClient
+import slack_sdk
+from slack_sdk import WebClient
 import pyspark.pandas as ps
 
 # COMMAND ----------
 
-slack_token = "xoxb-6737575427414-6741312365653-fjquxudHMUzQD9C1y81PV9tq"
+slack_token = "xoxb-6744899286806-6751439466563-vsAawUjA809pv2MkP9S9bkBb"
 client = WebClient(token=slack_token)
 
 # COMMAND ----------
@@ -39,26 +39,26 @@ nome_arquivo = dbutils.fs.ls("dbfs:/databricks-results/prata/valores_reais/")[-1
 
 # COMMAND ----------
 
-!ls ../../
+!ls ../../../../../
 
 
 # COMMAND ----------
 
-!ls ../../dbfs/
+!ls ../../../../../dbfs/
 
 # COMMAND ----------
 
-!ls ../../dbfs/databricks-results/prata/valores_reais/
+!ls ../../../../../dbfs/databricks-results/prata/valores_reais/
 
 
 # COMMAND ----------
 
-path = "../../dbfs/databricks-results/prata/valores_reais/" + nome_arquivo
+path = "../../../../../dbfs/databricks-results/prata/valores_reais/" + nome_arquivo
 
 # COMMAND ----------
 
 enviando_arquivo_csv = client.files_upload_v2(
-    channel="C06MFK9GBN3",  
+    channel="C06MNURVBST",  
     title="Arquivo no formato CSV do valor do real convertido",
     file=path,
     filename="valores_reais.csv",
@@ -69,7 +69,6 @@ enviando_arquivo_csv = client.files_upload_v2(
 
 ps.read_csv("dbfs:/databricks-results/prata/valores_reais/").head()
 
-
 # COMMAND ----------
 
 df_valores_reais = ps.read_csv("dbfs:/databricks-results/prata/valores_reais/")
@@ -79,15 +78,13 @@ df_valores_reais.head()
 
 df_valores_reais.plot.line(x="data", y='USD')
 
+# COMMAND ----------
+
+!mkdir ../imagens
 
 # COMMAND ----------
 
-!mkdir imagens
-
-# COMMAND ----------
-
-!ls
-
+!ls ../
 
 # COMMAND ----------
 
@@ -103,24 +100,36 @@ df_valores_reais.columns[1:]
 
 for moeda in df_valores_reais.columns[1:]:
     fig = df_valores_reais.plot.line(x="data", y=moeda)
-    fig.write_image(f".imagens/{moeda}.png")
+    fig.write_image(f"../imagens/{moeda}.png")
 
 
 # COMMAND ----------
 
-!ls ./imagens
+!ls ../imagens
 
 
 # COMMAND ----------
 
 def enviando_imagens(moeda_cotacao):
     enviando_imagens = client.files_upload_v2(
-    channel="C06MFK9GBN3",  
+    channel="C06MNURVBST",  
     title="Enviando imagens de cotacoes",
-    file=f"./imagens/{moeda_cotacao}.png"
+    file=f"../imagens/{moeda_cotacao}.png"
 )
 
 # COMMAND ----------
 
 for moeda in df_valores_reais.columns[1:]:
     enviando_imagens(moeda)
+
+# COMMAND ----------
+
+!ls ../imagens
+
+# COMMAND ----------
+
+!rm -r ../imagens
+
+# COMMAND ----------
+
+
