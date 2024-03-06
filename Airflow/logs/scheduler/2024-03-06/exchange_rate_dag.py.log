@@ -1,0 +1,1153 @@
+[2024-03-05T21:00:02.402-0300] {processor.py:161} INFO - Started process (PID=27007) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:02.404-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:00:02.406-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:02.405-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:02.440-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:02.480-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:02.480-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:00:02.522-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:02.522-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:00:02.582-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.190 seconds
+[2024-03-05T21:00:33.143-0300] {processor.py:161} INFO - Started process (PID=27201) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:33.145-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:00:33.146-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:33.145-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:33.156-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:00:33.174-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:33.173-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:00:33.194-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:00:33.194-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:00:33.216-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.076 seconds
+[2024-03-05T21:01:03.515-0300] {processor.py:161} INFO - Started process (PID=27339) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:03.518-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:01:03.519-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:03.519-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:03.528-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:03.545-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:03.544-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:01:03.560-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:03.560-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:01:03.581-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T21:01:33.700-0300] {processor.py:161} INFO - Started process (PID=27592) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:33.702-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:01:33.704-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:33.703-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:33.712-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:01:33.731-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:33.731-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:01:33.753-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:01:33.753-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:01:33.802-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.104 seconds
+[2024-03-05T21:02:04.191-0300] {processor.py:161} INFO - Started process (PID=27667) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:04.194-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:02:04.195-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:04.194-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:04.205-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:04.224-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:04.223-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:02:04.243-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:04.243-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:02:04.264-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.077 seconds
+[2024-03-05T21:02:34.590-0300] {processor.py:161} INFO - Started process (PID=27990) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:34.592-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:02:34.594-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:34.593-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:34.616-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:02:34.651-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:34.651-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:02:34.682-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:02:34.681-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:02:34.710-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.126 seconds
+[2024-03-05T21:03:05.085-0300] {processor.py:161} INFO - Started process (PID=28247) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:05.087-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:03:05.088-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:05.087-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:05.101-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:05.121-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:05.121-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:03:05.144-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:05.144-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:03:05.180-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.098 seconds
+[2024-03-05T21:03:35.548-0300] {processor.py:161} INFO - Started process (PID=28505) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:35.549-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:03:35.550-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:35.550-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:35.561-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:35.579-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:35.579-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:03:35.600-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:35.600-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-01 09:00:00+00:00, run_after=2024-02-02 09:00:00+00:00
+[2024-03-05T21:03:35.627-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.082 seconds
+[2024-03-05T21:03:46.790-0300] {processor.py:161} INFO - Started process (PID=28534) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:46.792-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:03:46.794-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:46.793-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:46.814-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:03:47.571-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:47.571-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:03:47.591-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:03:47.591-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:03:47.617-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.830 seconds
+[2024-03-05T21:04:17.828-0300] {processor.py:161} INFO - Started process (PID=28929) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:17.830-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:04:17.832-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:17.831-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:17.841-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:18.001-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:18.001-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:04:18.008-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:18.008-0300] {dag.py:3069} INFO - Creating ORM DAG for Executando-notebook-etl
+[2024-03-05T21:04:18.016-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:18.016-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:04:18.035-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.209 seconds
+[2024-03-05T21:04:49.024-0300] {processor.py:161} INFO - Started process (PID=29068) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:49.032-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:04:49.041-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:49.037-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:49.143-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:04:49.267-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:49.267-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:04:49.336-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:04:49.336-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:04:49.384-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.386 seconds
+[2024-03-05T21:05:19.673-0300] {processor.py:161} INFO - Started process (PID=29142) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:19.676-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:05:19.678-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:19.678-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:19.700-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:19.725-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:19.725-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:05:19.747-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:19.747-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:05:19.773-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.108 seconds
+[2024-03-05T21:05:50.099-0300] {processor.py:161} INFO - Started process (PID=29275) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:50.101-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:05:50.102-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:50.101-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:50.113-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:50.134-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:50.134-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:05:50.154-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:50.154-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:05:50.292-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.196 seconds
+[2024-03-05T21:05:57.427-0300] {processor.py:161} INFO - Started process (PID=29294) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:57.429-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:05:57.430-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:57.430-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:57.439-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:05:57.606-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:57.606-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:05:57.622-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:05:57.622-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:05:57.648-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.223 seconds
+[2024-03-05T21:06:28.755-0300] {processor.py:161} INFO - Started process (PID=29672) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:06:28.757-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:06:28.758-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:06:28.757-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:06:28.767-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:06:28.952-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:06:28.952-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:06:28.963-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:06:28.963-0300] {dag.py:3069} INFO - Creating ORM DAG for Executando-notebook-etl
+[2024-03-05T21:06:28.972-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:06:28.971-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:06:28.991-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.239 seconds
+[2024-03-05T21:07:47.384-0300] {processor.py:161} INFO - Started process (PID=30850) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:07:47.389-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:07:47.392-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:07:47.391-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:07:47.408-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:07:47.477-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:07:47.477-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:07:47.500-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:07:47.500-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-02 09:00:00+00:00, run_after=2024-03-03 09:00:00+00:00
+[2024-03-05T21:07:47.529-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.151 seconds
+[2024-03-05T21:08:20.671-0300] {processor.py:161} INFO - Started process (PID=31131) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:20.673-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:08:20.674-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:20.673-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:20.680-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:20.701-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:20.701-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:08:20.719-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:20.719-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-03 09:00:00+00:00, run_after=2024-03-04 09:00:00+00:00
+[2024-03-05T21:08:20.742-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.073 seconds
+[2024-03-05T21:08:54.157-0300] {processor.py:161} INFO - Started process (PID=31675) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:54.159-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:08:54.161-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:54.160-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:54.168-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:08:54.198-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:54.197-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:08:54.223-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:08:54.223-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T21:08:54.254-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.101 seconds
+[2024-03-05T21:09:27.886-0300] {processor.py:161} INFO - Started process (PID=32222) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:27.888-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:09:27.889-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:27.888-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:27.893-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:27.911-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:27.911-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:09:27.928-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:27.927-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:09:27.948-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.065 seconds
+[2024-03-05T21:09:58.080-0300] {processor.py:161} INFO - Started process (PID=32357) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:58.086-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:09:58.087-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:58.087-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:58.101-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:09:58.120-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:58.119-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:09:58.137-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:09:58.137-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:09:58.157-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.094 seconds
+[2024-03-05T21:10:28.451-0300] {processor.py:161} INFO - Started process (PID=32430) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:28.457-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:10:28.458-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:28.458-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:28.463-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:28.526-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:28.526-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:10:28.545-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:28.544-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:10:28.565-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.119 seconds
+[2024-03-05T21:10:58.940-0300] {processor.py:161} INFO - Started process (PID=32563) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:58.942-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:10:58.943-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:58.943-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:58.950-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:10:58.993-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:58.993-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:10:59.022-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:10:59.022-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:10:59.057-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.126 seconds
+[2024-03-05T21:11:29.344-0300] {processor.py:161} INFO - Started process (PID=32638) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:29.347-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:11:29.348-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:29.348-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:29.355-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:29.382-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:29.382-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:11:29.415-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:29.414-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:11:29.444-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.104 seconds
+[2024-03-05T21:11:46.753-0300] {processor.py:161} INFO - Started process (PID=32741) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:46.755-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:11:46.756-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:46.756-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:46.762-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:46.950-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:46.949-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:11:46.967-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:46.967-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:11:46.995-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.244 seconds
+[2024-03-05T21:11:49.420-0300] {processor.py:161} INFO - Started process (PID=32754) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:49.421-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:11:49.421-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:49.421-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:49.427-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:49.432-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:49.432-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:11:49.447-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:49.447-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:11:49.471-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.054 seconds
+[2024-03-05T21:11:59.459-0300] {processor.py:161} INFO - Started process (PID=32779) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:59.460-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:11:59.462-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:59.461-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:59.471-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:11:59.478-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:59.477-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:11:59.494-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:11:59.494-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:11:59.520-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.064 seconds
+[2024-03-05T21:12:30.081-0300] {processor.py:161} INFO - Started process (PID=32852) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:12:30.083-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:12:30.084-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:12:30.084-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:12:30.090-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:12:30.170-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:12:30.170-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:12:30.183-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:12:30.182-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:12:30.207-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.129 seconds
+[2024-03-05T21:13:00.555-0300] {processor.py:161} INFO - Started process (PID=33133) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:00.556-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:13:00.557-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:00.557-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:00.563-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:00.582-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:00.582-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:13:00.598-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:00.598-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:13:00.620-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T21:13:02.743-0300] {processor.py:161} INFO - Started process (PID=33175) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:02.744-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:13:02.744-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:02.744-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:02.750-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:02.845-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:02.845-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:13:02.860-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:02.860-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:13:02.884-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.143 seconds
+[2024-03-05T21:13:06.759-0300] {processor.py:161} INFO - Started process (PID=33190) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:06.761-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:13:06.762-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:06.762-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:06.767-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:06.774-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:06.773-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:13:06.789-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:06.788-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:13:06.810-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.052 seconds
+[2024-03-05T21:13:37.056-0300] {processor.py:161} INFO - Started process (PID=33575) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:37.057-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:13:37.058-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:37.058-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:37.063-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:13:37.148-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:37.147-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:13:37.157-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:37.157-0300] {dag.py:3069} INFO - Creating ORM DAG for Executando-notebook-etl
+[2024-03-05T21:13:37.168-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:13:37.168-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-10 09:00:00+00:00, run_after=2024-02-11 09:00:00+00:00
+[2024-03-05T21:13:37.191-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.137 seconds
+[2024-03-05T21:14:22.012-0300] {processor.py:161} INFO - Started process (PID=34276) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:14:22.014-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:14:22.015-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:14:22.015-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:14:22.019-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:14:22.037-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:14:22.037-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:14:22.052-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:14:22.052-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-11 09:00:00+00:00, run_after=2024-02-12 09:00:00+00:00
+[2024-03-05T21:14:22.076-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:15:28.440-0300] {processor.py:161} INFO - Started process (PID=35133) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:15:28.442-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:15:28.444-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:15:28.444-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:15:28.452-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:15:28.475-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:15:28.474-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:15:28.496-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:15:28.495-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-12 09:00:00+00:00, run_after=2024-02-13 09:00:00+00:00
+[2024-03-05T21:15:28.521-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.083 seconds
+[2024-03-05T21:16:35.183-0300] {processor.py:161} INFO - Started process (PID=35734) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:16:35.185-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:16:35.186-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:16:35.186-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:16:35.192-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:16:35.214-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:16:35.214-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:16:35.230-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:16:35.229-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-13 09:00:00+00:00, run_after=2024-02-14 09:00:00+00:00
+[2024-03-05T21:16:35.254-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.074 seconds
+[2024-03-05T21:17:41.090-0300] {processor.py:161} INFO - Started process (PID=36228) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:17:41.092-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:17:41.093-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:17:41.093-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:17:41.097-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:17:41.115-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:17:41.115-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:17:41.131-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:17:41.131-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-14 09:00:00+00:00, run_after=2024-02-15 09:00:00+00:00
+[2024-03-05T21:17:41.151-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.064 seconds
+[2024-03-05T21:18:48.113-0300] {processor.py:161} INFO - Started process (PID=36723) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:18:48.115-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:18:48.116-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:18:48.116-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:18:48.122-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:18:48.141-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:18:48.141-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:18:48.157-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:18:48.156-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-15 09:00:00+00:00, run_after=2024-02-16 09:00:00+00:00
+[2024-03-05T21:18:48.179-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T21:19:54.363-0300] {processor.py:161} INFO - Started process (PID=37350) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:19:54.365-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:19:54.365-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:19:54.365-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:19:54.373-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:19:54.391-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:19:54.390-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:19:54.406-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:19:54.405-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-16 09:00:00+00:00, run_after=2024-02-17 09:00:00+00:00
+[2024-03-05T21:19:54.426-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:21:00.707-0300] {processor.py:161} INFO - Started process (PID=37779) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:21:00.709-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:21:00.711-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:21:00.710-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:21:00.717-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:21:00.737-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:21:00.737-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:21:00.754-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:21:00.754-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-17 09:00:00+00:00, run_after=2024-02-18 09:00:00+00:00
+[2024-03-05T21:21:00.778-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.075 seconds
+[2024-03-05T21:22:07.351-0300] {processor.py:161} INFO - Started process (PID=38571) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:22:07.353-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:22:07.354-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:22:07.354-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:22:07.359-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:22:07.399-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:22:07.398-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:22:07.418-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:22:07.418-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-18 09:00:00+00:00, run_after=2024-02-19 09:00:00+00:00
+[2024-03-05T21:22:07.443-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.095 seconds
+[2024-03-05T21:23:13.879-0300] {processor.py:161} INFO - Started process (PID=39644) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:23:13.880-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:23:13.881-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:23:13.881-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:23:13.886-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:23:13.903-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:23:13.903-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:23:13.919-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:23:13.918-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-19 09:00:00+00:00, run_after=2024-02-20 09:00:00+00:00
+[2024-03-05T21:23:13.945-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T21:24:20.305-0300] {processor.py:161} INFO - Started process (PID=40682) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:24:20.307-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:24:20.308-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:24:20.308-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:24:20.313-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:24:20.329-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:24:20.329-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:24:20.346-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:24:20.346-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-20 09:00:00+00:00, run_after=2024-02-21 09:00:00+00:00
+[2024-03-05T21:24:20.366-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.063 seconds
+[2024-03-05T21:25:26.198-0300] {processor.py:161} INFO - Started process (PID=41709) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:25:26.199-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:25:26.200-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:25:26.200-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:25:26.205-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:25:26.223-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:25:26.222-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:25:26.236-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:25:26.236-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-21 09:00:00+00:00, run_after=2024-02-22 09:00:00+00:00
+[2024-03-05T21:25:26.255-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.060 seconds
+[2024-03-05T21:26:33.490-0300] {processor.py:161} INFO - Started process (PID=42815) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:26:33.492-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:26:33.493-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:26:33.493-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:26:33.498-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:26:33.517-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:26:33.517-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:26:33.531-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:26:33.531-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-22 09:00:00+00:00, run_after=2024-02-23 09:00:00+00:00
+[2024-03-05T21:26:33.554-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:27:39.113-0300] {processor.py:161} INFO - Started process (PID=43844) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:27:39.115-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:27:39.116-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:27:39.116-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:27:39.121-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:27:39.138-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:27:39.138-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:27:39.153-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:27:39.152-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-23 09:00:00+00:00, run_after=2024-02-24 09:00:00+00:00
+[2024-03-05T21:27:39.181-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T21:28:45.924-0300] {processor.py:161} INFO - Started process (PID=44876) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:28:45.927-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:28:45.928-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:28:45.927-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:28:45.935-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:28:45.961-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:28:45.961-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:28:45.984-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:28:45.984-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-24 09:00:00+00:00, run_after=2024-02-25 09:00:00+00:00
+[2024-03-05T21:28:46.017-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.095 seconds
+[2024-03-05T21:29:54.046-0300] {processor.py:161} INFO - Started process (PID=45374) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:29:54.048-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:29:54.049-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:29:54.049-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:29:54.056-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:29:54.081-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:29:54.081-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:29:54.100-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:29:54.100-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-25 09:00:00+00:00, run_after=2024-02-26 09:00:00+00:00
+[2024-03-05T21:29:54.200-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.158 seconds
+[2024-03-05T21:31:02.267-0300] {processor.py:161} INFO - Started process (PID=46146) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:31:02.268-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:31:02.269-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:31:02.269-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:31:02.275-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:31:02.296-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:31:02.296-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:31:02.318-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:31:02.317-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-26 09:00:00+00:00, run_after=2024-02-27 09:00:00+00:00
+[2024-03-05T21:31:02.344-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.081 seconds
+[2024-03-05T21:32:09.587-0300] {processor.py:161} INFO - Started process (PID=46846) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:32:09.589-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:32:09.591-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:32:09.590-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:32:09.598-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:32:09.634-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:32:09.634-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:32:09.658-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:32:09.658-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-27 09:00:00+00:00, run_after=2024-02-28 09:00:00+00:00
+[2024-03-05T21:32:09.684-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.100 seconds
+[2024-03-05T21:33:16.564-0300] {processor.py:161} INFO - Started process (PID=47607) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:33:16.566-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:33:16.567-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:33:16.567-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:33:16.573-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:33:16.593-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:33:16.592-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:33:16.608-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:33:16.608-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-28 09:00:00+00:00, run_after=2024-02-29 09:00:00+00:00
+[2024-03-05T21:33:16.629-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T21:34:53.310-0300] {processor.py:161} INFO - Started process (PID=49116) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:34:53.312-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:34:53.313-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:34:53.313-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:34:53.319-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:34:53.338-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:34:53.337-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:34:53.353-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:34:53.352-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-02-29 09:00:00+00:00, run_after=2024-03-01 09:00:00+00:00
+[2024-03-05T21:34:53.373-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:35:59.368-0300] {processor.py:161} INFO - Started process (PID=50178) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:35:59.369-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:35:59.370-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:35:59.370-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:35:59.376-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:35:59.399-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:35:59.398-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:35:59.417-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:35:59.417-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-01 09:00:00+00:00, run_after=2024-03-02 09:00:00+00:00
+[2024-03-05T21:35:59.439-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.074 seconds
+[2024-03-05T21:37:05.407-0300] {processor.py:161} INFO - Started process (PID=51123) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:37:05.409-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:37:05.410-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:37:05.410-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:37:05.415-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:37:05.433-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:37:05.433-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:37:05.448-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:37:05.448-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-02 09:00:00+00:00, run_after=2024-03-03 09:00:00+00:00
+[2024-03-05T21:37:05.471-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:39:43.103-0300] {processor.py:161} INFO - Started process (PID=52183) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:39:43.105-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:39:43.107-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:39:43.106-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:39:43.112-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:39:43.130-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:39:43.130-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:39:43.148-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:39:43.148-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-03 09:00:00+00:00, run_after=2024-03-04 09:00:00+00:00
+[2024-03-05T21:39:43.171-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T21:40:16.413-0300] {processor.py:161} INFO - Started process (PID=52599) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:40:16.415-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:40:16.416-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:40:16.415-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:40:16.421-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:40:16.442-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:40:16.442-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:40:16.464-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:40:16.464-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T21:40:16.489-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.080 seconds
+[2024-03-05T21:41:23.346-0300] {processor.py:161} INFO - Started process (PID=53503) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:23.348-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:41:23.349-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:23.349-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:23.354-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:23.375-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:23.375-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:41:23.396-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:23.396-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:41:23.420-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.077 seconds
+[2024-03-05T21:41:56.786-0300] {processor.py:161} INFO - Started process (PID=53988) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:56.788-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:41:56.789-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:56.788-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:56.793-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:41:56.811-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:56.811-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:41:56.827-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:41:56.827-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:41:56.849-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:42:27.022-0300] {processor.py:161} INFO - Started process (PID=54253) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:27.024-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:42:27.025-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:27.024-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:27.029-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:27.049-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:27.049-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:42:27.065-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:27.065-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:42:27.088-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T21:42:57.408-0300] {processor.py:161} INFO - Started process (PID=54394) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:57.410-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:42:57.411-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:57.411-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:57.416-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:42:57.435-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:57.434-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:42:57.452-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:42:57.452-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:42:57.473-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T21:43:27.788-0300] {processor.py:161} INFO - Started process (PID=54473) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:27.789-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:43:27.790-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:27.790-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:27.795-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:27.814-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:27.813-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:43:27.831-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:27.831-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:43:27.853-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T21:43:58.172-0300] {processor.py:161} INFO - Started process (PID=54617) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:58.173-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:43:58.175-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:58.174-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:58.181-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:43:58.200-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:58.200-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:43:58.219-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:43:58.219-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:43:58.245-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.075 seconds
+[2024-03-05T21:44:28.310-0300] {processor.py:161} INFO - Started process (PID=54690) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:28.312-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:44:28.313-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:28.313-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:28.318-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:28.338-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:28.338-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:44:28.355-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:28.355-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:44:28.380-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.073 seconds
+[2024-03-05T21:44:58.417-0300] {processor.py:161} INFO - Started process (PID=54829) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:58.419-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:44:58.420-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:58.419-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:58.425-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:44:58.447-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:58.446-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:44:58.463-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:44:58.463-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:44:58.484-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T21:45:28.519-0300] {processor.py:161} INFO - Started process (PID=54908) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:28.523-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:45:28.524-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:28.524-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:28.528-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:28.546-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:28.545-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:45:28.562-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:28.562-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:45:28.586-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T21:45:58.647-0300] {processor.py:161} INFO - Started process (PID=55049) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:58.648-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:45:58.649-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:58.649-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:58.655-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:45:58.680-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:58.679-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:45:58.700-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:45:58.700-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:45:58.730-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.086 seconds
+[2024-03-05T21:46:29.744-0300] {processor.py:161} INFO - Started process (PID=55188) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:29.747-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:46:29.748-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:29.747-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:29.753-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:29.774-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:29.774-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:46:29.790-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:29.789-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:46:29.813-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.071 seconds
+[2024-03-05T21:46:59.889-0300] {processor.py:161} INFO - Started process (PID=55329) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:59.891-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:46:59.893-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:59.892-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:59.897-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:46:59.913-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:59.913-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:46:59.927-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:46:59.927-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:46:59.950-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.063 seconds
+[2024-03-05T21:47:30.067-0300] {processor.py:161} INFO - Started process (PID=55405) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:47:30.070-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:47:30.073-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:47:30.072-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:47:30.079-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:47:30.112-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:47:30.111-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:47:30.142-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:47:30.141-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:47:30.176-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.113 seconds
+[2024-03-05T21:48:00.692-0300] {processor.py:161} INFO - Started process (PID=55541) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:00.694-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:48:00.695-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:00.695-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:00.699-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:00.718-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:00.717-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:48:00.736-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:00.736-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:48:00.762-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.074 seconds
+[2024-03-05T21:48:31.096-0300] {processor.py:161} INFO - Started process (PID=55620) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:31.349-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:48:31.350-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:31.350-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:31.355-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:48:31.391-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:31.391-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:48:31.408-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:48:31.408-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:48:32.314-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 1.220 seconds
+[2024-03-05T21:49:02.611-0300] {processor.py:161} INFO - Started process (PID=55759) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:02.614-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:49:02.615-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:02.615-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:02.621-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:02.648-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:02.647-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:49:02.671-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:02.670-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:49:02.708-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.101 seconds
+[2024-03-05T21:49:32.875-0300] {processor.py:161} INFO - Started process (PID=55838) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:32.877-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:49:32.879-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:32.878-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:32.886-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:49:32.908-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:32.908-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:49:32.927-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:49:32.926-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:49:32.955-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.082 seconds
+[2024-03-05T21:50:03.175-0300] {processor.py:161} INFO - Started process (PID=55971) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:03.177-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:50:03.178-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:03.177-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:03.183-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:03.204-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:03.204-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:50:03.222-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:03.222-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:50:03.248-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.077 seconds
+[2024-03-05T21:50:33.564-0300] {processor.py:161} INFO - Started process (PID=56050) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:33.567-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:50:33.567-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:33.567-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:33.573-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:50:33.596-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:33.596-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:50:33.617-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:50:33.616-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:50:33.646-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.086 seconds
+[2024-03-05T21:51:03.872-0300] {processor.py:161} INFO - Started process (PID=56189) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:03.874-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:51:03.875-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:03.874-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:03.880-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:03.899-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:03.898-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:51:03.915-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:03.915-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:51:03.938-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T21:51:34.147-0300] {processor.py:161} INFO - Started process (PID=56347) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:34.149-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:51:34.151-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:34.150-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:34.155-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:51:34.176-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:34.176-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:51:34.193-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:51:34.193-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:51:34.224-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.080 seconds
+[2024-03-05T21:52:04.415-0300] {processor.py:161} INFO - Started process (PID=56463) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:04.418-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:52:04.419-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:04.419-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:04.424-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:04.447-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:04.447-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:52:04.467-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:04.467-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:52:04.499-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.086 seconds
+[2024-03-05T21:52:34.684-0300] {processor.py:161} INFO - Started process (PID=56567) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:34.686-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:52:34.687-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:34.686-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:34.691-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:52:34.710-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:34.710-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:52:34.726-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:52:34.726-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:52:34.751-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T21:53:04.981-0300] {processor.py:161} INFO - Started process (PID=56675) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:04.984-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:53:04.986-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:04.985-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:04.997-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:05.036-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:05.035-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:53:05.060-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:05.060-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:53:05.091-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.116 seconds
+[2024-03-05T21:53:35.264-0300] {processor.py:161} INFO - Started process (PID=56814) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:35.266-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:53:35.267-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:35.267-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:35.272-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:53:35.320-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:35.320-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:53:35.339-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:53:35.339-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:53:35.366-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.104 seconds
+[2024-03-05T21:54:05.551-0300] {processor.py:161} INFO - Started process (PID=56898) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:05.553-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:54:05.554-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:05.554-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:05.559-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:05.580-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:05.580-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:54:05.596-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:05.596-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:54:05.617-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T21:54:35.822-0300] {processor.py:161} INFO - Started process (PID=57037) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:35.824-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:54:35.825-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:35.824-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:35.832-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:54:35.860-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:35.860-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:54:35.877-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:54:35.877-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:54:35.901-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.083 seconds
+[2024-03-05T21:55:06.107-0300] {processor.py:161} INFO - Started process (PID=57110) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:06.108-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:55:06.109-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:06.109-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:06.116-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:06.140-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:06.140-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:55:06.159-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:06.159-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:55:06.182-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.078 seconds
+[2024-03-05T21:55:36.417-0300] {processor.py:161} INFO - Started process (PID=57249) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:36.420-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:55:36.420-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:36.420-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:36.425-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:55:36.442-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:36.442-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:55:36.457-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:55:36.457-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:55:36.480-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.065 seconds
+[2024-03-05T21:56:06.683-0300] {processor.py:161} INFO - Started process (PID=57328) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:06.685-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:56:06.687-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:06.686-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:06.693-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:06.721-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:06.720-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:56:06.739-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:06.739-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:56:06.767-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.088 seconds
+[2024-03-05T21:56:37.162-0300] {processor.py:161} INFO - Started process (PID=57523) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:37.164-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:56:37.165-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:37.165-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:37.170-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:56:37.197-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:37.197-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:56:37.219-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:56:37.218-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:56:37.250-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.091 seconds
+[2024-03-05T21:57:07.488-0300] {processor.py:161} INFO - Started process (PID=57602) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:07.490-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:57:07.491-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:07.491-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:07.496-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:07.515-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:07.515-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:57:07.532-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:07.532-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:57:07.559-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.073 seconds
+[2024-03-05T21:57:37.717-0300] {processor.py:161} INFO - Started process (PID=57746) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:37.720-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:57:37.722-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:37.721-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:37.727-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:57:37.749-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:37.748-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:57:37.768-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:57:37.768-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:57:37.798-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.083 seconds
+[2024-03-05T21:58:07.964-0300] {processor.py:161} INFO - Started process (PID=57819) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:07.966-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:58:07.968-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:07.967-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:07.972-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:07.989-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:07.989-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:58:08.003-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:08.003-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:58:08.023-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.062 seconds
+[2024-03-05T21:58:38.268-0300] {processor.py:161} INFO - Started process (PID=57958) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:38.270-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:58:38.272-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:38.272-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:38.277-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:58:38.296-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:38.295-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:58:38.311-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:58:38.311-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:58:38.332-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T21:59:08.552-0300] {processor.py:161} INFO - Started process (PID=58037) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:08.554-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:59:08.555-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:08.555-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:08.560-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:08.578-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:08.577-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:59:08.592-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:08.592-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:59:08.613-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.063 seconds
+[2024-03-05T21:59:38.826-0300] {processor.py:161} INFO - Started process (PID=58170) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:38.829-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T21:59:38.830-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:38.829-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:38.836-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T21:59:38.858-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:38.858-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T21:59:38.877-0300] {logging_mixin.py:188} INFO - [2024-03-05T21:59:38.877-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T21:59:38.902-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.079 seconds
+[2024-03-05T22:00:09.093-0300] {processor.py:161} INFO - Started process (PID=58249) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:09.095-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:00:09.096-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:09.095-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:09.102-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:09.124-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:09.124-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:00:09.144-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:09.144-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:00:09.167-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.077 seconds
+[2024-03-05T22:00:39.387-0300] {processor.py:161} INFO - Started process (PID=58390) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:39.388-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:00:39.389-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:39.389-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:39.393-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:00:39.412-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:39.412-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:00:39.428-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:00:39.428-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:00:39.450-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T22:01:09.693-0300] {processor.py:161} INFO - Started process (PID=58471) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:09.695-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:01:09.697-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:09.696-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:09.701-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:09.719-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:09.719-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:01:09.734-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:09.734-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:01:09.757-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T22:01:40.031-0300] {processor.py:161} INFO - Started process (PID=58664) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:40.041-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:01:40.048-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:40.045-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:40.099-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:01:40.189-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:40.188-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:01:40.225-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:01:40.224-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:01:40.278-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.264 seconds
+[2024-03-05T22:02:10.400-0300] {processor.py:161} INFO - Started process (PID=58743) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:10.406-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:02:10.408-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:10.407-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:10.421-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:10.451-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:10.451-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:02:10.481-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:10.480-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:02:10.506-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.120 seconds
+[2024-03-05T22:02:40.645-0300] {processor.py:161} INFO - Started process (PID=58876) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:40.650-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:02:40.651-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:40.650-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:40.657-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:02:40.684-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:40.683-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:02:40.706-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:02:40.706-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:02:40.737-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.096 seconds
+[2024-03-05T22:03:10.903-0300] {processor.py:161} INFO - Started process (PID=58955) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:10.905-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:03:10.907-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:10.906-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:10.912-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:10.932-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:10.931-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:03:10.948-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:10.948-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:03:10.972-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.071 seconds
+[2024-03-05T22:03:41.197-0300] {processor.py:161} INFO - Started process (PID=59090) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:41.199-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:03:41.200-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:41.200-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:41.206-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:03:41.227-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:41.227-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:03:41.245-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:03:41.245-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:03:41.274-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.081 seconds
+[2024-03-05T22:04:11.471-0300] {processor.py:161} INFO - Started process (PID=59172) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:11.473-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:04:11.475-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:11.474-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:11.481-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:11.511-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:11.510-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:04:11.536-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:11.536-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:04:11.568-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.100 seconds
+[2024-03-05T22:04:41.759-0300] {processor.py:161} INFO - Started process (PID=59311) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:41.761-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:04:41.762-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:41.762-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:41.768-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:04:41.785-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:41.784-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:04:41.800-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:04:41.799-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:04:41.822-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.066 seconds
+[2024-03-05T22:05:12.142-0300] {processor.py:161} INFO - Started process (PID=59384) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:12.145-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:05:12.149-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:12.146-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:12.210-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:12.286-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:12.286-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:05:12.310-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:12.310-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:05:12.334-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.233 seconds
+[2024-03-05T22:05:35.341-0300] {processor.py:161} INFO - Started process (PID=59470) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:35.357-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:05:35.361-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:35.359-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:35.441-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:36.272-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:36.271-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:05:36.331-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:36.330-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:05:36.395-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 1.102 seconds
+[2024-03-05T22:05:52.557-0300] {processor.py:161} INFO - Started process (PID=59549) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:52.567-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:05:52.573-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:52.570-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:52.606-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:52.698-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:52.697-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:05:52.797-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:52.797-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:05:52.861-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.342 seconds
+[2024-03-05T22:05:57.191-0300] {processor.py:161} INFO - Started process (PID=59562) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:57.194-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:05:57.196-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:57.195-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:57.216-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:05:57.255-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:57.254-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:05:57.291-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:05:57.291-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:05:57.321-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.136 seconds
+[2024-03-05T22:06:05.559-0300] {processor.py:161} INFO - Started process (PID=59581) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:05.562-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:06:05.564-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:05.563-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:05.570-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:05.581-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:05.581-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:06:05.697-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:05.696-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:06:05.825-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.269 seconds
+[2024-03-05T22:06:36.118-0300] {processor.py:161} INFO - Started process (PID=59783) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:36.121-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:06:36.123-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:36.122-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:36.158-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:06:36.361-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:36.361-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:06:36.374-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:36.373-0300] {dag.py:3069} INFO - Creating ORM DAG for Executando-notebook-etl
+[2024-03-05T22:06:36.382-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:06:36.382-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:06:36.427-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.395 seconds
+[2024-03-05T22:07:07.295-0300] {processor.py:161} INFO - Started process (PID=60043) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:07.296-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:07:07.297-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:07.297-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:07.303-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:07.332-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:07.332-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:07:07.350-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:07.350-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:07:07.380-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.088 seconds
+[2024-03-05T22:07:37.576-0300] {processor.py:161} INFO - Started process (PID=60179) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:37.578-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:07:37.579-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:37.579-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:37.585-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:07:37.608-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:37.608-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:07:37.627-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:07:37.627-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:07:37.654-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.080 seconds
+[2024-03-05T22:08:07.913-0300] {processor.py:161} INFO - Started process (PID=60252) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:07.915-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:08:07.917-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:07.916-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:07.928-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:07.965-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:07.965-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:08:07.991-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:07.990-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:08:08.020-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.114 seconds
+[2024-03-05T22:08:36.191-0300] {processor.py:161} INFO - Started process (PID=60385) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:36.194-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:08:36.195-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:36.194-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:36.204-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:08:36.240-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:36.240-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:08:36.265-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:08:36.265-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:08:36.299-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.111 seconds
+[2024-03-05T22:09:06.460-0300] {processor.py:161} INFO - Started process (PID=60524) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:06.465-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:09:06.466-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:06.465-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:06.471-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:06.489-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:06.489-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:09:06.514-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:06.514-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:09:06.540-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.082 seconds
+[2024-03-05T22:09:36.724-0300] {processor.py:161} INFO - Started process (PID=60657) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:36.728-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:09:36.730-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:36.729-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:36.736-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:09:36.754-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:36.754-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:09:36.771-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:09:36.771-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:09:36.796-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.074 seconds
+[2024-03-05T22:10:38.762-0300] {processor.py:161} INFO - Started process (PID=61427) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:10:38.764-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:10:38.765-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:10:38.765-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:10:38.771-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:10:38.794-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:10:38.794-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:10:38.815-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:10:38.815-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:10:38.841-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.082 seconds
+[2024-03-05T22:11:12.326-0300] {processor.py:161} INFO - Started process (PID=61942) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:12.328-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:11:12.329-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:12.328-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:12.335-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:12.362-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:12.362-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:11:12.384-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:12.384-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:11:12.435-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.112 seconds
+[2024-03-05T22:11:47.433-0300] {processor.py:161} INFO - Started process (PID=62499) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:47.434-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:11:47.435-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:47.435-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:47.441-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:11:47.470-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:47.469-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:11:47.493-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:11:47.492-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:11:47.519-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.089 seconds
+[2024-03-05T22:12:18.580-0300] {processor.py:161} INFO - Started process (PID=62784) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:18.582-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:12:18.584-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:18.583-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:18.589-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:18.609-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:18.609-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:12:18.626-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:18.626-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:12:18.648-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.071 seconds
+[2024-03-05T22:12:48.849-0300] {processor.py:161} INFO - Started process (PID=63012) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:48.850-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:12:48.851-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:48.851-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:48.856-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:12:48.872-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:48.872-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:12:48.887-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:12:48.887-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:12:48.908-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.061 seconds
+[2024-03-05T22:13:19.121-0300] {processor.py:161} INFO - Started process (PID=63215) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:19.124-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:13:19.125-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:19.125-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:19.132-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:19.320-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:19.320-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:13:19.332-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:19.331-0300] {dag.py:3069} INFO - Creating ORM DAG for Executando-notebook-etl
+[2024-03-05T22:13:19.341-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:19.341-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:13:19.369-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.251 seconds
+[2024-03-05T22:13:49.477-0300] {processor.py:161} INFO - Started process (PID=63351) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:49.482-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:13:49.484-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:49.483-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:49.493-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:13:49.526-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:49.526-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:13:49.559-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:13:49.559-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:13:49.589-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.116 seconds
+[2024-03-05T22:14:19.756-0300] {processor.py:161} INFO - Started process (PID=63434) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:19.758-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:14:19.760-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:19.759-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:19.766-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:19.791-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:19.791-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:14:19.811-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:19.811-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:14:19.833-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.080 seconds
+[2024-03-05T22:14:50.034-0300] {processor.py:161} INFO - Started process (PID=63567) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:50.036-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:14:50.037-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:50.037-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:50.041-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:14:50.059-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:50.059-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:14:50.074-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:14:50.074-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:14:50.099-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T22:15:20.326-0300] {processor.py:161} INFO - Started process (PID=63646) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:20.327-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:15:20.328-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:20.328-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:20.332-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:20.352-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:20.352-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:15:20.367-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:20.367-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:15:20.390-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T22:15:50.624-0300] {processor.py:161} INFO - Started process (PID=63782) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:50.626-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:15:50.628-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:50.627-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:50.633-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:15:50.652-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:50.652-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:15:50.668-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:15:50.667-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:15:50.690-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T22:16:20.949-0300] {processor.py:161} INFO - Started process (PID=63866) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:20.951-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:16:20.952-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:20.952-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:20.958-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:20.984-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:20.984-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:16:21.002-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:21.001-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:16:21.032-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.087 seconds
+[2024-03-05T22:16:51.245-0300] {processor.py:161} INFO - Started process (PID=64059) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:51.247-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:16:51.249-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:51.248-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:51.256-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:16:51.290-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:51.290-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:16:51.311-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:16:51.310-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:16:51.338-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.096 seconds
+[2024-03-05T22:17:21.527-0300] {processor.py:161} INFO - Started process (PID=64141) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:21.530-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:17:21.531-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:21.531-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:21.537-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:21.557-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:21.556-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:17:21.574-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:21.573-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:17:21.598-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.075 seconds
+[2024-03-05T22:17:51.795-0300] {processor.py:161} INFO - Started process (PID=64274) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:51.797-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:17:51.798-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:51.797-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:51.803-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:17:51.820-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:51.820-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:17:51.835-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:17:51.835-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:17:51.854-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.062 seconds
+[2024-03-05T22:18:22.073-0300] {processor.py:161} INFO - Started process (PID=64353) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:22.075-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:18:22.076-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:22.076-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:22.083-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:22.107-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:22.107-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:18:22.127-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:22.127-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:18:22.153-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.084 seconds
+[2024-03-05T22:18:52.360-0300] {processor.py:161} INFO - Started process (PID=64491) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:52.362-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:18:52.363-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:52.362-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:52.370-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:18:52.389-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:52.389-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:18:52.405-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:18:52.405-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:18:52.427-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.070 seconds
+[2024-03-05T22:19:22.700-0300] {processor.py:161} INFO - Started process (PID=64755) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:22.702-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:19:22.703-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:22.703-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:22.709-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:22.726-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:22.726-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:19:22.741-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:22.741-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:19:22.765-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T22:19:52.973-0300] {processor.py:161} INFO - Started process (PID=64890) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:52.975-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:19:52.976-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:52.976-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:52.982-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:19:53.001-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:53.001-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:19:53.020-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:19:53.020-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:19:53.082-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.111 seconds
+[2024-03-05T22:20:23.254-0300] {processor.py:161} INFO - Started process (PID=64969) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:23.257-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:20:23.258-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:23.257-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:23.261-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:23.278-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:23.277-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:20:23.292-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:23.292-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:20:23.312-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.060 seconds
+[2024-03-05T22:20:53.537-0300] {processor.py:161} INFO - Started process (PID=65102) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:53.539-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:20:53.540-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:53.540-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:53.545-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:20:53.567-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:53.567-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:20:53.649-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:20:53.649-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:20:53.712-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.177 seconds
+[2024-03-05T22:21:23.830-0300] {processor.py:161} INFO - Started process (PID=65181) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:23.831-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:21:23.831-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:23.831-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:23.835-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:23.856-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:23.856-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:21:23.911-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:23.911-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:21:23.933-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.105 seconds
+[2024-03-05T22:21:54.129-0300] {processor.py:161} INFO - Started process (PID=65374) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:54.131-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:21:54.132-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:54.131-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:54.140-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:21:54.169-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:54.169-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:21:54.196-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:21:54.196-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:21:54.227-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.102 seconds
+[2024-03-05T22:22:24.401-0300] {processor.py:161} INFO - Started process (PID=65454) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:24.403-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:22:24.404-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:24.404-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:24.408-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:24.427-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:24.427-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:22:24.449-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:24.449-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:22:24.476-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.078 seconds
+[2024-03-05T22:22:54.678-0300] {processor.py:161} INFO - Started process (PID=65590) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:54.680-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:22:54.681-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:54.681-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:54.687-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:22:54.710-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:54.709-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:22:54.728-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:22:54.728-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:22:54.752-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.077 seconds
+[2024-03-05T22:23:24.959-0300] {processor.py:161} INFO - Started process (PID=65666) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:24.960-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:23:24.961-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:24.961-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:24.966-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:24.983-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:24.983-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:23:24.997-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:24.997-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:23:25.020-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.064 seconds
+[2024-03-05T22:23:55.223-0300] {processor.py:161} INFO - Started process (PID=65810) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:55.227-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:23:55.228-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:55.228-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:55.232-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:23:55.249-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:55.249-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:23:55.264-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:23:55.264-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:23:55.284-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.064 seconds
+[2024-03-05T22:24:25.485-0300] {processor.py:161} INFO - Started process (PID=66008) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:25.486-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:24:25.487-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:25.487-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:25.492-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:25.511-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:25.511-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:24:25.528-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:25.527-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:24:25.551-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T22:24:55.792-0300] {processor.py:161} INFO - Started process (PID=66271) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:55.796-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:24:55.799-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:55.798-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:55.806-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:24:55.835-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:55.834-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:24:55.869-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:24:55.869-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-04 09:00:00+00:00, run_after=2024-03-05 09:00:00+00:00
+[2024-03-05T22:24:55.897-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.109 seconds
+[2024-03-05T22:25:32.738-0300] {processor.py:161} INFO - Started process (PID=66853) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:25:32.741-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:25:32.742-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:25:32.742-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:25:32.752-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:25:32.774-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:25:32.774-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:25:32.796-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:25:32.796-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:25:32.824-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.088 seconds
+[2024-03-05T22:26:06.757-0300] {processor.py:161} INFO - Started process (PID=67377) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:06.759-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:26:06.760-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:06.759-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:06.766-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:06.787-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:06.787-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:26:06.806-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:06.805-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:26:06.833-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.079 seconds
+[2024-03-05T22:26:40.619-0300] {processor.py:161} INFO - Started process (PID=67925) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:40.621-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:26:40.624-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:40.623-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:40.632-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:26:40.663-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:40.662-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:26:40.684-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:26:40.683-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:26:40.716-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.101 seconds
+[2024-03-05T22:27:11.803-0300] {processor.py:161} INFO - Started process (PID=68184) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:11.806-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:27:11.807-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:11.806-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:11.812-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:11.833-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:11.833-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:27:11.851-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:11.851-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:27:11.877-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.076 seconds
+[2024-03-05T22:27:42.095-0300] {processor.py:161} INFO - Started process (PID=68326) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:42.097-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:27:42.098-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:42.098-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:42.109-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:27:42.141-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:42.140-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:27:42.166-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:27:42.165-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:27:42.199-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.108 seconds
+[2024-03-05T22:28:12.403-0300] {processor.py:161} INFO - Started process (PID=68399) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:12.405-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:28:12.406-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:12.406-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:12.411-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:12.430-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:12.430-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:28:12.447-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:12.447-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:28:12.472-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.072 seconds
+[2024-03-05T22:28:42.667-0300] {processor.py:161} INFO - Started process (PID=68538) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:42.670-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:28:42.671-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:42.671-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:42.676-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:28:42.697-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:42.697-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:28:42.713-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:28:42.713-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:28:42.737-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.073 seconds
+[2024-03-05T22:29:12.973-0300] {processor.py:161} INFO - Started process (PID=68611) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:12.975-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:29:12.976-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:12.976-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:12.983-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:13.012-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:13.012-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:29:13.031-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:13.031-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:29:13.059-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.089 seconds
+[2024-03-05T22:29:43.240-0300] {processor.py:161} INFO - Started process (PID=68752) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:43.242-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:29:43.243-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:43.243-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:43.248-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:29:43.266-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:43.266-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:29:43.280-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:29:43.280-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:29:43.306-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.068 seconds
+[2024-03-05T22:30:13.490-0300] {processor.py:161} INFO - Started process (PID=68828) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:13.492-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:30:13.493-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:13.493-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:13.498-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:13.519-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:13.518-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:30:13.538-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:13.538-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:30:13.563-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.076 seconds
+[2024-03-05T22:30:43.792-0300] {processor.py:161} INFO - Started process (PID=68966) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:43.793-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:30:43.794-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:43.794-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:43.800-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:30:43.818-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:43.817-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:30:43.832-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:30:43.832-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:30:43.856-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.067 seconds
+[2024-03-05T22:31:14.061-0300] {processor.py:161} INFO - Started process (PID=69045) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:14.062-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:31:14.064-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:14.063-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:14.069-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:14.094-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:14.093-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:31:14.117-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:14.117-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:31:14.147-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.089 seconds
+[2024-03-05T22:31:44.334-0300] {processor.py:161} INFO - Started process (PID=69178) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:44.339-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:31:44.340-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:44.339-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:44.345-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:31:44.362-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:44.362-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:31:44.377-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:31:44.377-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:31:44.402-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.071 seconds
+[2024-03-05T22:32:14.581-0300] {processor.py:161} INFO - Started process (PID=69317) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:14.582-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:32:14.583-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:14.583-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:14.587-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:14.608-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:14.607-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:32:14.631-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:14.631-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:32:14.656-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.078 seconds
+[2024-03-05T22:32:44.886-0300] {processor.py:161} INFO - Started process (PID=69450) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:44.888-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:32:44.891-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:44.890-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:44.897-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:32:44.920-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:44.919-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:32:44.937-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:32:44.936-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:32:44.961-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.079 seconds
+[2024-03-05T22:33:15.161-0300] {processor.py:161} INFO - Started process (PID=69529) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:15.164-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:33:15.165-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:15.165-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:15.171-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:15.191-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:15.191-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:33:15.207-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:15.207-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:33:15.228-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.069 seconds
+[2024-03-05T22:33:45.450-0300] {processor.py:161} INFO - Started process (PID=69666) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:45.451-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:33:45.452-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:45.452-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:45.459-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:33:45.477-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:45.477-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:33:45.498-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:33:45.497-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:33:45.535-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.087 seconds
+[2024-03-05T22:34:15.769-0300] {processor.py:161} INFO - Started process (PID=69748) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:15.771-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:34:15.772-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:15.772-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:15.777-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:15.795-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:15.795-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:34:15.813-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:15.813-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:34:15.853-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.086 seconds
+[2024-03-05T22:34:46.040-0300] {processor.py:161} INFO - Started process (PID=69881) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:46.043-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:34:46.045-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:46.044-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:46.054-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:34:46.080-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:46.079-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:34:46.104-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:34:46.103-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:34:46.137-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.101 seconds
+[2024-03-05T22:35:16.331-0300] {processor.py:161} INFO - Started process (PID=69960) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:16.332-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:35:16.333-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:16.332-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:16.338-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:16.357-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:16.356-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:35:16.372-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:16.372-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:35:16.400-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.072 seconds
+[2024-03-05T22:35:46.609-0300] {processor.py:161} INFO - Started process (PID=70099) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:46.611-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:35:46.612-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:46.611-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:46.617-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:35:46.638-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:46.637-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:35:46.693-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:35:46.692-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:35:46.727-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.120 seconds
+[2024-03-05T22:36:16.957-0300] {processor.py:161} INFO - Started process (PID=70174) to work on /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:36:16.959-0300] {processor.py:830} INFO - Processing file /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py for tasks to queue
+[2024-03-05T22:36:16.960-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:36:16.960-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:36:16.968-0300] {processor.py:840} INFO - DAG(s) 'Executando-notebook-etl' retrieved from /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py
+[2024-03-05T22:36:16.997-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:36:16.996-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-05T22:36:17.025-0300] {logging_mixin.py:188} INFO - [2024-03-05T22:36:17.025-0300] {dag.py:3834} INFO - Setting next_dagrun for Executando-notebook-etl to 2024-03-05 09:00:00+00:00, run_after=2024-03-06 09:00:00+00:00
+[2024-03-05T22:36:17.062-0300] {processor.py:183} INFO - Processing /home/gabriel/Documents/Airflow/dags/exchange_rate_dag.py took 0.110 seconds

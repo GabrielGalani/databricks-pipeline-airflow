@@ -1,0 +1,135 @@
+[2024-03-05T21:03:54.776-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:03:54.785-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:03:54.785-0300] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-03-05T21:03:54.808-0300] {taskinstance.py:2214} INFO - Executing <Task(DatabricksRunNowOperator): Extraindo-conversoes> on 2024-03-02 09:00:00+00:00
+[2024-03-05T21:03:54.811-0300] {standard_task_runner.py:60} INFO - Started process 28621 to run task
+[2024-03-05T21:03:54.815-0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'Executando-notebook-etl', 'Extraindo-conversoes', 'scheduled__2024-03-02T09:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/exchange_rate_dag.py', '--cfg-path', '/tmp/tmpeo6v_bd7']
+[2024-03-05T21:03:54.817-0300] {standard_task_runner.py:88} INFO - Job 6: Subtask Extraindo-conversoes
+[2024-03-05T21:03:54.876-0300] {task_command.py:423} INFO - Running <TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [running]> on host GabGalani.
+[2024-03-05T21:03:54.929-0300] {abstractoperator.py:707} ERROR - Exception rendering Jinja template for task 'Extraindo-conversoes', field 'json'. Template: {'job_id': '292067935571330', 'notebook_params': {'data_execucao': '{{data_interval_end.strftime("%Y-%m-%d)}}'}}
+Traceback (most recent call last):
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/abstractoperator.py", line 699, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in render_template
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in <dictcomp>
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in render_template
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in <dictcomp>
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 173, in render_template
+    template = jinja_env.from_string(value)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 1105, in from_string
+    return cls.from_code(self, self.compile(source), gs, None)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "<unknown>", line 1, in template
+jinja2.exceptions.TemplateSyntaxError: unexpected char '"' at 29
+[2024-03-05T21:03:54.931-0300] {taskinstance.py:2728} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 2357, in _run_raw_task
+    self._execute_task_with_callbacks(context, test_mode, session=session)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 2495, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 2907, in render_templates
+    original_task.render_template_fields(context)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1241, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/abstractoperator.py", line 699, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in render_template
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in <dictcomp>
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in render_template
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 186, in <dictcomp>
+    return {k: self.render_template(v, context, jinja_env, oids) for k, v in value.items()}
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/template/templater.py", line 173, in render_template
+    template = jinja_env.from_string(value)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 1105, in from_string
+    return cls.from_code(self, self.compile(source), gs, None)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "<unknown>", line 1, in template
+jinja2.exceptions.TemplateSyntaxError: unexpected char '"' at 29
+[2024-03-05T21:03:54.936-0300] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=Executando-notebook-etl, task_id=Extraindo-conversoes, execution_date=20240302T090000, start_date=20240306T000354, end_date=20240306T000354
+[2024-03-05T21:03:54.954-0300] {standard_task_runner.py:107} ERROR - Failed to execute job 6 for task Extraindo-conversoes (unexpected char '"' at 29; 28621)
+[2024-03-05T21:03:54.989-0300] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-03-05T21:03:54.999-0300] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-03-05T21:07:48.955-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:07:48.963-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:07:48.963-0300] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-03-05T21:07:48.978-0300] {taskinstance.py:2214} INFO - Executing <Task(DatabricksRunNowOperator): Extraindo-conversoes> on 2024-03-02 09:00:00+00:00
+[2024-03-05T21:07:48.981-0300] {standard_task_runner.py:60} INFO - Started process 30852 to run task
+[2024-03-05T21:07:48.984-0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'Executando-notebook-etl', 'Extraindo-conversoes', 'scheduled__2024-03-02T09:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/exchange_rate_dag.py', '--cfg-path', '/tmp/tmpipuw5sg7']
+[2024-03-05T21:07:48.985-0300] {standard_task_runner.py:88} INFO - Job 6: Subtask Extraindo-conversoes
+[2024-03-05T21:07:49.015-0300] {task_command.py:423} INFO - Running <TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [running]> on host GabGalani.
+[2024-03-05T21:07:49.073-0300] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='Executando-notebook-etl' AIRFLOW_CTX_TASK_ID='Extraindo-conversoes' AIRFLOW_CTX_EXECUTION_DATE='2024-03-02T09:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-03-02T09:00:00+00:00'
+[2024-03-05T21:07:49.077-0300] {base.py:83} INFO - Using connection ID 'databricks_default' for task execution.
+[2024-03-05T21:07:49.089-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:07:49.449-0300] {databricks.py:54} INFO - Run submitted with run_id: 505150058600004
+[2024-03-05T21:07:49.449-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:07:49.637-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:07:49.838-0300] {databricks.py:108} INFO - Extraindo-conversoes in run state: {'life_cycle_state': 'RUNNING', 'result_state': '', 'state_message': ''}
+[2024-03-05T21:07:49.839-0300] {databricks.py:109} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/505150058600004
+[2024-03-05T21:07:49.839-0300] {databricks.py:110} INFO - Sleeping for 30 seconds.
+[2024-03-05T21:08:19.870-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:08:20.136-0300] {databricks.py:65} INFO - Extraindo-conversoes completed successfully.
+[2024-03-05T21:08:20.137-0300] {databricks.py:66} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/505150058600004
+[2024-03-05T21:08:20.141-0300] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=Executando-notebook-etl, task_id=Extraindo-conversoes, execution_date=20240302T090000, start_date=20240306T000748, end_date=20240306T000820
+[2024-03-05T21:08:20.164-0300] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-03-05T21:08:20.171-0300] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-03-05T21:37:06.712-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:37:06.718-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [queued]>
+[2024-03-05T21:37:06.719-0300] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-03-05T21:37:06.734-0300] {taskinstance.py:2214} INFO - Executing <Task(DatabricksRunNowOperator): Extraindo-conversoes> on 2024-03-02 09:00:00+00:00
+[2024-03-05T21:37:06.736-0300] {standard_task_runner.py:60} INFO - Started process 51125 to run task
+[2024-03-05T21:37:06.738-0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'Executando-notebook-etl', 'Extraindo-conversoes', 'scheduled__2024-03-02T09:00:00+00:00', '--job-id', '46', '--raw', '--subdir', 'DAGS_FOLDER/exchange_rate_dag.py', '--cfg-path', '/tmp/tmp3_zryd3f']
+[2024-03-05T21:37:06.739-0300] {standard_task_runner.py:88} INFO - Job 46: Subtask Extraindo-conversoes
+[2024-03-05T21:37:06.767-0300] {task_command.py:423} INFO - Running <TaskInstance: Executando-notebook-etl.Extraindo-conversoes scheduled__2024-03-02T09:00:00+00:00 [running]> on host GabGalani.
+[2024-03-05T21:37:06.828-0300] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='Executando-notebook-etl' AIRFLOW_CTX_TASK_ID='Extraindo-conversoes' AIRFLOW_CTX_EXECUTION_DATE='2024-03-02T09:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-03-02T09:00:00+00:00'
+[2024-03-05T21:37:06.832-0300] {base.py:83} INFO - Using connection ID 'databricks_default' for task execution.
+[2024-03-05T21:37:06.845-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:37:07.294-0300] {databricks.py:54} INFO - Run submitted with run_id: 624712450169807
+[2024-03-05T21:37:07.295-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:37:07.496-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:37:07.661-0300] {databricks.py:108} INFO - Extraindo-conversoes in run state: {'life_cycle_state': 'RUNNING', 'result_state': '', 'state_message': ''}
+[2024-03-05T21:37:07.661-0300] {databricks.py:109} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/624712450169807
+[2024-03-05T21:37:07.662-0300] {databricks.py:110} INFO - Sleeping for 30 seconds.
+[2024-03-05T21:37:37.693-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:37:37.912-0300] {databricks.py:108} INFO - Extraindo-conversoes in run state: {'life_cycle_state': 'RUNNING', 'result_state': '', 'state_message': ''}
+[2024-03-05T21:37:37.912-0300] {databricks.py:109} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/624712450169807
+[2024-03-05T21:37:37.913-0300] {databricks.py:110} INFO - Sleeping for 30 seconds.
+[2024-03-05T21:38:07.943-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:38:08.207-0300] {databricks.py:108} INFO - Extraindo-conversoes in run state: {'life_cycle_state': 'RUNNING', 'result_state': '', 'state_message': ''}
+[2024-03-05T21:38:08.208-0300] {databricks.py:109} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/624712450169807
+[2024-03-05T21:38:08.208-0300] {databricks.py:110} INFO - Sleeping for 30 seconds.
+[2024-03-05T21:38:38.238-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:38:38.523-0300] {databricks.py:108} INFO - Extraindo-conversoes in run state: {'life_cycle_state': 'RUNNING', 'result_state': '', 'state_message': ''}
+[2024-03-05T21:38:38.524-0300] {databricks.py:109} INFO - View run status, Spark UI, and logs at https://adb-2816171104137333.13.azuredatabricks.net/?o=2816171104137333#job/292067935571330/run/624712450169807
+[2024-03-05T21:38:38.524-0300] {databricks.py:110} INFO - Sleeping for 30 seconds.
+[2024-03-05T21:39:08.555-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:39:08.799-0300] {databricks_base.py:500} INFO - Using token auth.
+[2024-03-05T21:39:09.179-0300] {taskinstance.py:2728} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/providers/databricks/operators/databricks.py", line 831, in execute
+    _handle_databricks_operator_execution(self, hook, self.log, context)
+  File "/home/gabriel/Documents/Airflow/venv/lib/python3.10/site-packages/airflow/providers/databricks/operators/databricks.py", line 105, in _handle_databricks_operator_execution
+    raise AirflowException(error_message)
+airflow.exceptions.AirflowException: Extraindo-conversoes failed with terminal state: {'life_cycle_state': 'INTERNAL_ERROR', 'result_state': 'FAILED', 'state_message': 'Task 1_-_extraindo-dados failed with message: Workload failed, see run output for details. This caused all downstream tasks to get skipped.'} and with the error Exception: Não consegui extrair dados!!!
+[2024-03-05T21:39:09.181-0300] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=Executando-notebook-etl, task_id=Extraindo-conversoes, execution_date=20240302T090000, start_date=20240306T003706, end_date=20240306T003909
+[2024-03-05T21:39:09.197-0300] {standard_task_runner.py:107} ERROR - Failed to execute job 46 for task Extraindo-conversoes (Extraindo-conversoes failed with terminal state: {'life_cycle_state': 'INTERNAL_ERROR', 'result_state': 'FAILED', 'state_message': 'Task 1_-_extraindo-dados failed with message: Workload failed, see run output for details. This caused all downstream tasks to get skipped.'} and with the error Exception: Não consegui extrair dados!!!; 51125)
+[2024-03-05T21:39:09.227-0300] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-03-05T21:39:09.246-0300] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check
