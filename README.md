@@ -14,10 +14,9 @@ Como engenheiro de dados em uma empresa multinacional, fui desafiado a criar uma
 O Datalake foi arquitetado pensando na arquitetura medalhão, onde a camada bronze recebe os dados brutos, a camada silver recebe os dados com primeiro estágio de tratamento e a camada gold (não usada) recebe os dados refinados, conforme imagem abaixo:
 
 ### Estrutura - datalake - img
-![estrutura_datalake](/Estrutura-datalake/Datalake - arquitetura.png)
-
+![estrutura-datalake](https://github.com/GabrielGalani/databricks-pipeline-airflow/blob/main/Estrutura-datalake/Datalake%20-%20arquitetura.png)
 ### Estrutura - bronze - img
-![estrutura_datalake_bronze](/Estrutura-datalake/Bronze - estrutura.png)
+![estrutura-bronze](https://github.com/GabrielGalani/databricks-pipeline-airflow/raw/main/Estrutura-datalake/Bronze%20-%20estrutura.png)
 
 ## Exemplo de Tabela Enviada
 
