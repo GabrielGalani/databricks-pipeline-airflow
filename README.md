@@ -53,3 +53,6 @@ Dada a natureza remota do trabalho, utilizamos o Slack como plataforma de comuni
 O pipeline foi construído e é executado na Cloud Azure, utilizando o Apache Airflow para orquestração das tarefas e o Databricks para processamento distribuído. A integração com o Slack permite a comunicação eficiente e o compartilhamento das informações com o time responsável pelos gastos da empresa.
 
 Esperamos que essa solução auxilie o time a ter previsões mais precisas acerca do consumo do orçamento, proporcionando insights valiosos para a gestão financeira da empresa.
+
+### Exemplo 
+![execucao_final_gift](https://github.com/GabrielGalani/databricks-pipeline-airflow/blob/main/Execucao-final/final_execucao_gift.gif)
