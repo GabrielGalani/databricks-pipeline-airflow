@@ -1,10 +1,11 @@
 # Databricks notebook source
-from slack_Sdk import WebClient
+import slack_sdk
+from slack_sdk import WebClient
 import pyspark.pandas as ps
 
 # COMMAND ----------
 
-slack_token = "xoxb-6744899286806-6751439466563-vsAawUjA809pv2MkP9S9bkBb"
+slack_token = "xoxb-6744899286806-6751439466563-sNiI7eooaYttLzft7uEYwpTs"
 client = WebClient(token=slack_token)
 
 # COMMAND ----------
@@ -14,6 +15,16 @@ nome_arquivo = dbutils.fs.ls("dbfs:/databricks-results/prata/valores_reais/")[-1
 # COMMAND ----------
 
 path = "../../../../../dbfs/databricks-results/prata/valores_reais/" + nome_arquivo
+
+# COMMAND ----------
+
+enviando_arquivo_csv = client.files_upload_v2(
+    channel="C06MNURVBST",  
+    title="Arquivo no formato CSV do valor do real convertido",
+    file=path,
+    filename="valores_reais.csv",
+    initial_comment="Segue anexo o arquivo CSV:",
+)
 
 # COMMAND ----------
 
